@@ -1,0 +1,6 @@
+.choise__button_active{
+    box-shadow: inset -3px -5px 15px #FFFFFF, inset 3px 5px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: #FE7271;
+    transition: all 400ms ease;
+}

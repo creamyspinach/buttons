@@ -1,0 +1,10 @@
+.choise__text{
+    font-size: 25px;
+    line-height: 32px;
+    color: #000000;
+    margin: 0;
+}
+
+.choise__button:hover .choise__text{
+    color: #FE7271;
+}

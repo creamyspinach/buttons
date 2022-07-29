@@ -1,0 +1,13 @@
+.choise__button{
+    width: 169px;
+    height: 62px;
+    background-color: #E9EDF0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    cursor: pointer;
+}
+
+.choise__button:hover{
+    color: #FE7271;
+}

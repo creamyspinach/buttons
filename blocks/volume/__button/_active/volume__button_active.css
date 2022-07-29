@@ -1,0 +1,5 @@
+.volume__button_active{
+    background-image: url(../../../../images/volume-active.svg);
+    box-shadow: inset -5px -5px 15px rgba(255, 255, 255, 0.6), inset 5px 5px 15px 4px rgba(0, 0, 0, 0.25);
+    transition: all 400ms ease;
+}
